@@ -1,7 +1,6 @@
 
 //Callbacks
-//Promises
-//Async/await
+
 console.log('START');
 
 const newUser = getUser(1, (user)=> { 
