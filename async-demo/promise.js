@@ -5,8 +5,6 @@ const p = new Promise((resolve, reject) => {
         resolve(1);
         reject(new Error('Error Message'));
     }, 2000);
-    
-    
 });
 
 p
